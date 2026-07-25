@@ -10,4 +10,4 @@ Need help with IVFTracker? Email thsdevelop20@gmail.com and we'll get back to yo
 
 *How do I request a feature or report a bug?* Email us at the address above with as much detail as you can — what happened, what you expected, and your iOS/device version if it's a bug.
 
-For information on what data the app collects (in short: none, everything stays on your device), see our Privacy Policy, https://dozuki619.github.io/IVFTracker-Policy-Support/privacy-policy
+For information on what data the app collects (in short: none, everything stays on your device), see our Privacy Policy, https://dozuki619.github.io/IVF-Tracker-Policy-Support/privacy-policy
